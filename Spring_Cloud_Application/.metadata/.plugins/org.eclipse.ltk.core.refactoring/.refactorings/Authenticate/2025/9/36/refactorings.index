@@ -1,0 +1,3 @@
+1756877686640	Rename package 'com.cloud.Authenticate.Controller'
+1756878117216	Encapsulate field 'username'
+1756878123590	Encapsulate field 'password'
