@@ -13,4 +13,4 @@ public class APIGatewayApplication {
 		SpringApplication.run(APIGatewayApplication.class, args);
 
 	}
-	}
+}
