@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.rays.service01.feignclient&apos; to &apos;service-03/src/main/java/com.rays.service03.ctl&apos;&#x0D;&#x0A;- Original project: &apos;service-01&apos;&#x0D;&#x0A;- Destination element: &apos;service-03/src/main/java/com.rays.service03.ctl&apos;&#x0D;&#x0A;- Original element: &apos;service-01/src/main/java/com.rays.service01.feignclient&apos;" description="Copy package" destination="=service-03/src\/main\/java&lt;com.rays.service03.ctl" element1="/src\/main\/java&lt;com.rays.service01.feignclient" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1775805745877" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+package com.rays.service_03;
+
+/**
+ * Hello world!
+ *
+ */
+
+@SpringBootApplication
+@EnableFeignClients
+@EnableDiscoveryClient
+public class Service03Application {
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
